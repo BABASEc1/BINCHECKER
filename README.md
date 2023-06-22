@@ -27,7 +27,8 @@ python -m pip install requests
 python -m pip install prettytable
 For Linux/Unix:
 ```
-No problems, python already installed.
+```
+No problems python already installed
 python3 -m pip install requests
 python3 -m pip install prettytable
 ```
