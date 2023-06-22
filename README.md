@@ -32,6 +32,7 @@ No problems python already installed
 python3 -m pip install requests
 python3 -m pip install prettytable
 ```
+```
 for helping projects 
 MY wallets 
 #TRX trc20✔ TRsasKB6A1ueTpP11vBDbQPgcKcoXJLM6d
